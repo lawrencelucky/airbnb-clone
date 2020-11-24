@@ -8,12 +8,12 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  width: 559px;
+  width: 100%;
   padding-bottom: 10px;
   background-color: #fff;
   position: absolute;
   left: 0;
-  top: 380px;
+  top: 340px;
 }
 
 .search > input {
@@ -22,7 +22,7 @@
   position: absolute;
   left: 0;
   height: 30px;
-  top: 420px;
+  top: 380px;
   border: none;
 }
 
@@ -33,7 +33,7 @@
 .search > button {
   position: absolute;
   left: 0;
-  top: 480px;
+  top: 449px;
   text-transform: inherit !important;
   background-color: #ff7779;
   color: white;
