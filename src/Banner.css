@@ -21,7 +21,7 @@
   background-color: #fff !important;
   font-weight: 900 !important;
   text-rendering: inherit !important;
-  color: #ff7779;
+  color: #ff7779 !important;
 }
 
 .banner__info > button {
